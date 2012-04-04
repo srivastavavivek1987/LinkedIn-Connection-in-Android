@@ -1,0 +1,9 @@
+How to use this Sample
+======================
+
+This application is build on Android Os2.2, you can change minimum SDK version  
+
+1. change your LINKEDIN_CONSUMER_KEY and LINKEDIN_CONSUMER_SECRET in LinkedinDialog class.
+2. LinkedInSampleActivity is the Luncher activity, you just need to call linkedInLogin() method to get the linkedin Dialog.
+3. enter your linkedin email and password.
+4. now you can get 'linkedin Access Token' and 'linkedin Access Token Secret'
